@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3611C1D1-6E5C-4ED7-A212-80B2280FEBDC}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Labb2/NewEventActivity.cs" Line="24" Column="35" />
+      <File FileName="Labb2/MainActivity.cs" Line="50" Column="1" />
+      <File FileName="Labb2/Resources/values/Strings.xml" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Labb2 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_24_x86" />
+</Properties>

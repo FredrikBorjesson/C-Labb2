@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Labb2</string>
+	<string name="events">Här kan du lägga till nya händelser, antingen inkomster eller utgifter.</string>
+	<string name="checkboxIncome">Inkomst</string>
+	<string name="checkbocOutcome">Utkomst</string>
+</resources>
