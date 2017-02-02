@@ -8,5 +8,10 @@ namespace Labb2
 		{
             Tax = tax;
 		}
-	}
+
+        public override string ToString()
+        {
+            return Tax + "";
+        }
+    }
 }

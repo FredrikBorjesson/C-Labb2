@@ -3,8 +3,9 @@ namespace Labb2
 {
     public class Account
     {
-        string Name { get; set; }
-        int Number { get; set; }
+        public string Name { get; set; }
+        public int Number { get; set; }
+        public string type { get; set; }
 
 		public Account(string name, int number)
 		{
